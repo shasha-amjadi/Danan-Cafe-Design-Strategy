@@ -1,2 +1,12 @@
 # Danan-Cafe-Design&Strategy
-Danan-Cafe-Design&Strategy files
+This repository contains the strategic and visual documentation for Danan Bakery.
+
+## Structure
+
+- Strategy
+- Visual Identity
+- Content
+- Product Information
+- Research
+- Presentations
+- Inspirations
